@@ -1,0 +1,13 @@
+---
+title: "Transcript: How Strong Is Your Heart? (2-Minute Test)"
+search:
+  exclude: true
+---
+
+# Transcript: How Strong Is Your Heart? (2-Minute Test)
+
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=WCZ-_lRR5KY)
+
+---
+
+today we are talking about heart rate recovery this is where you exercise you stop and then 1 minute later you measure your heart rate so for example if your heart rate was 160 and after 1 minute it was 130 that would be a drop of 30 beats per minute this is a significant marker of your cardiovascular and heart health I did this recently and my hrr is 37 beats per minute which puts me in the 75% percentile for elite athletes and the 99th percentile for the general population the reason why you want a high hrr is because a bad one is an indicator of bad things to comeb including coronary artery disease heart failure hypertension metabolic syndrome diabetes and sleep apnea a recent study in the New England Journal of Medicine evaluated over 2,000 participants with initial heart conditions and those with low hrr had an all cause mortality risk 400% higher in a six-year follow-up so it really is an important marker that for tells what's going to happen in the future whether you are likely to live or die all right now measuring your hrr is easy and you can do it at home you do need a heart rate monitoring device on your body but what you're going to do is you're going to exercise vigorously you'll see where your heart rate is at you'll stop immediately and then rest for 1 minute and you'll measure your heart rate again uh that six 60 seconds after you subtract those two numbers and that's your hrr so mine for example is 37 and here are two graphs one is for elite athletes and the other is for a general population you can see mine of 37 if for young athletes is between the 90th and 95th percentile all right now let's talk about what you can do to improve your hrr one is exercise to spend at least 150 minutes per week in moderate exercise and 75 in vigorous so a general rule of thumb is moderate is if you can exercise and carry on a conversation and vigorous means you're working hard enough where you can't speak anymore Diet also plays a really important role so have a lot of dietary fiber have enough protein have a balanced diet try to avoid bad stuff generally vaping smoking junk food have a clean diet and three is sleep uh 7 or 8 hours a night maximize for four variables is time to fall asleep time awake and then Ramen Deep if you want to check out this video I've explained how I became the best sleeper in the entire world you'll learn everything you need to know to become a professional sleeper and have the best mood of your life [Music]

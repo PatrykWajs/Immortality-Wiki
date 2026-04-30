@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  {% if page and page.meta %}
+    {% set page_title = page.meta.title | default(config.site_name) %}
+    {% set page_desc = page.meta.description | default(config.site_description) %}
+  {% else %}
+    {% set page_title = config.site_name %}
+    {% set page_desc = config.site_description %}
+  {% endif %}
+  <meta property="og:title" content="{{ page_title }}" />
+  <meta property="og:description" content="{{ page_desc }}" />
+  <meta property="og:image" content="{{ config.site_url }}assets/images/social-card.png" />
+  <meta property="og:url" content="{{ page.canonical_url | default(config.site_url) }}" />
+  <meta property="og:type" content="website" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ page_title }}" />
+  <meta name="twitter:description" content="{{ page_desc }}" />
+  <meta name="twitter:image" content="{{ config.site_url }}assets/images/social-card.png" />
+{% endblock %}
