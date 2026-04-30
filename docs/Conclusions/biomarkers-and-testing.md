@@ -504,3 +504,15 @@ Dry sauna emerges as one of the most potent anti-aging and longevity interventio
 Psilocybin represents a compelling but early-stage candidate for longevity intervention, with preclinical evidence suggesting epigenetic rejuvenation mechanisms rather than recreational benefits. Bryan Johnson's quantified self-experimentation approach—measuring hundreds of biomarkers across the psychedelic timeline—bridges the gap between traditional psychiatric research (subjective psychological outcomes) and longevity science (measurable cellular aging reversal). The convergence of ancient human spiritual practices with modern molecular biology suggests that psychedelics may operate simultaneously as consciousness tools *and* as cellular rejuvenation compounds, though far more controlled research is needed. Federal reclassification efforts for MDMA and psilocybin indicate the field is shifting from "harmful Schedule I substance" to "potential therapeutic intervention," opening pathways for healthy lifespan extension research beyond psychiatric applications.
 
 [▶ Source](https://www.youtube.com/watch?v=3-CqN8EpX8U)
+
+### [EP-100 — How I Became The World's Healthiest Human | Bryan Johnson Podcast](../Episodes/EP-100 - How I Became The Worlds Healthiest Human - Bryan Johnson Podcast/summary.md)
+
+Bryan Johnson has systematically demonstrated that biological aging can be substantially reversed through data-driven optimization of interconnected biomarkers—achieving sperm health, bone density, cardiovascular fitness, and epigenetic age metrics equivalent to someone 20-30 years younger than his chronological age of 47. The critical insight is that comprehensive measurement across hundreds of markers reveals synergistic relationships (sperm health reflecting hormone/mitochondrial/inflammatory status, oral health reflecting decades of metabolic history) that single-marker medicine misses. By implementing accessible interventions—sleep consistency, exercise, dietary quality, stress reduction, and targeted protocols like oral therapy or testicular cooling—individuals can meaningfully reverse aging markers regardless of their starting point, proving that decades of damage can be partially remedied through sustained systematic effort. This represents a paradigm shift from esoteric subjective health assessment to quantified, objective rankings of biological health comparable to how society ranks athletic or financial achievement.
+
+---
+
+topics: biomarkers-and-testing, hormones-and-sexual-health, diet-and-nutrition, sleep-and-recovery, longevity-science, supplements-and-protocols, exercise-and-fitness
+
+guest: none
+
+[▶ Source](https://www.youtube.com/watch?v=CVpfPETFPhE)
