@@ -38,7 +38,18 @@ INBOX_DIR.mkdir(exist_ok=True)
 CHANNEL_URL = "https://www.youtube.com/@BryanJohnson/videos"
 COOKIES_FILE = BASE / "cookies.txt"
 
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY") or (open(Path(__file__).parent.parent.parent.parent / ".env").read().split("ANTHROPIC_API_KEY=")[1].split("\n")[0].strip() if (Path(__file__).parent.parent.parent.parent / ".env").exists() else None)
+def _load_api_key():
+    key = os.environ.get("ANTHROPIC_API_KEY")
+    if key:
+        return key
+    for env_path in [BASE / ".env", BASE.parent.parent.parent.parent / ".env"]:
+        if env_path.exists():
+            for line in env_path.read_text().splitlines():
+                if line.startswith("ANTHROPIC_API_KEY="):
+                    return line.split("=", 1)[1].strip().strip('"')
+    return None
+
+ANTHROPIC_API_KEY = _load_api_key()
 
 # ── Topic map ─────────────────────────────────────────────────────────────────
 TOPIC_FILES = {

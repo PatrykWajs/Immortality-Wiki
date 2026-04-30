@@ -2,3 +2,6 @@ site/
 __pycache__/
 *.pyc
 .DS_Store
+.env
+cookies.txt
+inbox/
