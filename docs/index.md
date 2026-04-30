@@ -4,9 +4,21 @@ title: Home
 
 # Immortality Wiki
 
-AI-generated knowledge base from Bryan Johnson's longevity research — summaries, transcripts, and aggregated conclusions from **0 episodes**.
+The most comprehensive AI-generated knowledge base for Bryan Johnson's longevity research. Detailed summaries, full transcripts, and aggregated topic-based conclusions from **131 videos and PDFs**.
 
 Not affiliated with Bryan Johnson or Blueprint. Built for personal research use.
+
+---
+
+## 🎬 Latest Episode
+
+**EP-131 — Most Food Is Toxic... So I Fixed It** *(2026)*
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/setwpDYtHk0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+[:octicons-arrow-right-24: Read Summary & Transcript](Episodes/EP-131 - Most Food Is Toxic... So I Fixed It/summary.md)
 
 ---
 
@@ -18,7 +30,7 @@ Not affiliated with Bryan Johnson or Blueprint. Built for personal research use.
 
     ---
 
-    Chronological list of all processed episodes with links to summaries and transcripts.
+    Chronological list of all 131 episodes and PDFs with direct links to summaries and transcripts.
 
     [:octicons-arrow-right-24: Browse All Episodes](MAP.md)
 
@@ -26,7 +38,7 @@ Not affiliated with Bryan Johnson or Blueprint. Built for personal research use.
 
     ---
 
-    Expert guests indexed alphabetically. Find every episode featuring a specific researcher.
+    All expert guests indexed alphabetically. Find every episode featuring a specific researcher or expert.
 
     [:octicons-arrow-right-24: Browse Guests](GUESTS.md)
 
@@ -34,7 +46,7 @@ Not affiliated with Bryan Johnson or Blueprint. Built for personal research use.
 
     ---
 
-    Aggregated findings by topic. 13 research areas distilled into actionable conclusions.
+    Aggregated findings by topic across all episodes. 13 research areas distilled into actionable conclusions.
 
     [:octicons-arrow-right-24: Browse Topics](Conclusions/index.md)
 
@@ -70,10 +82,10 @@ Not affiliated with Bryan Johnson or Blueprint. Built for personal research use.
 
 | Metric | Count |
 |--------|-------|
-| **Total Episodes** | 0 |
+| **Total Episodes** | 131 |
 | **Research Topics** | 13 |
-| **Expert Guests** | — |
-| **Last Updated** | — |
+| **Expert Guests** | 10+ |
+| **Last Updated** | April 2026 |
 
 ---
 
