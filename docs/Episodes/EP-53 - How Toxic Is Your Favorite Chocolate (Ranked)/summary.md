@@ -2,6 +2,8 @@
 
 **YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=RzWWOQMLttE)
 
+> 📄 [View Full Transcript](transcript.md)
+
 ## Overview
 
 Bryan Johnson tests 10 popular supermarket chocolate brands to evaluate their healthfulness based on flavonol content (beneficial) versus heavy metal contamination (harmful). The video reveals a stark disconnect between marketing claims and actual nutritional quality, showing that even "clean label" products can contain dangerous levels of heavy metals like cadmium and lead.

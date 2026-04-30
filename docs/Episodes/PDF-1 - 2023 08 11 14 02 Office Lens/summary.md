@@ -1,6 +1,6 @@
 # 2023 08 11 14 02 Office Lens
 
-> 📄 Source: 2023_08_11 14_02 Office Lens.pdf
+> 📄 Source: 2023_08_11 14_02 Office Lens.pdf | [View Full Source](source.md)
 
 ## Overview
 
