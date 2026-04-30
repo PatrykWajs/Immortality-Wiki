@@ -921,5 +921,21 @@
       "status": "done",
       "processed": "2026-04-30"
     }
+  ],
+  "pdfs": [
+    {
+      "num": 1,
+      "filename": "2023_08_11 14_02 Office Lens.pdf",
+      "title": "2023 08 11 14 02 Office Lens",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 2,
+      "filename": "life Ai with human resources responces absolute 2019 Read Top and bottom of the doc for immortality and search (19019).pdf",
+      "title": "Life Ai With Human Resources Responces Absolute 2019 Read Top And Bottom Of The Doc For Immortality And Search (19019)",
+      "status": "done",
+      "processed": "2026-04-30"
+    }
   ]
 }
