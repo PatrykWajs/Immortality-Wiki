@@ -1,6 +1,7 @@
 site_name: Immortality Wiki
 site_url: https://patrykwajs.github.io/Immortality-Wiki/
 site_description: AI-generated knowledge base from Bryan Johnson's longevity research — 131 videos and PDFs on living to 200+.
+site_author: Patryk Wajs
 repo_url: https://github.com/PatrykWajs/Immortality-Wiki
 repo_name: PatrykWajs/Immortality-Wiki
 
@@ -22,20 +23,33 @@ theme:
         name: Switch to light mode
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
+    - navigation.expand
     - navigation.top
     - search.highlight
     - search.suggest
     - content.code.copy
-    - toc.follow
+    - toc.integrate
   font:
-    text: Inter
-    code: JetBrains Mono
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/images/favicon.svg
   icon:
+    logo: material/infinity
     repo: fontawesome/brands/github
 
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/PatrykWajs/Immortality-Wiki
+
 plugins:
-  - search
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
       minify_html: true
 
@@ -54,25 +68,25 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+      title: On this page
 
 nav:
   - Home: index.md
   - All Episodes: MAP.md
   - Guests: GUESTS.md
   - Topic Conclusions:
-    - Overview: Conclusions/index.md
-    - Diet & Nutrition: Conclusions/diet-and-nutrition.md
-    - Exercise & Fitness: Conclusions/exercise-and-fitness.md
-    - Sleep & Recovery: Conclusions/sleep-and-recovery.md
-    - Supplements & Protocols: Conclusions/supplements-and-protocols.md
-    - Biomarkers & Testing: Conclusions/biomarkers-and-testing.md
-    - Mental Health: Conclusions/mental-health.md
-    - Longevity Science: Conclusions/longevity-science.md
-    - Skin & Anti-Aging: Conclusions/skin-and-anti-aging.md
-    - Environment & Toxins: Conclusions/environment-and-toxins.md
-    - Hormones & Sexual Health: Conclusions/hormones-and-sexual-health.md
-    - Technology & AI: Conclusions/technology-and-ai.md
-    - Gut Health: Conclusions/gut-health.md
-    - Mindset & Philosophy: Conclusions/mindset-and-philosophy.md
-  - Episodes:
-    - All: MAP.md
+      - Overview: Conclusions/index.md
+      - Diet & Nutrition: Conclusions/diet-and-nutrition.md
+      - Exercise & Fitness: Conclusions/exercise-and-fitness.md
+      - Sleep & Recovery: Conclusions/sleep-and-recovery.md
+      - Supplements & Protocols: Conclusions/supplements-and-protocols.md
+      - Biomarkers & Testing: Conclusions/biomarkers-and-testing.md
+      - Mental Health: Conclusions/mental-health.md
+      - Longevity Science: Conclusions/longevity-science.md
+      - Skin & Anti-Aging: Conclusions/skin-and-anti-aging.md
+      - Environment & Toxins: Conclusions/environment-and-toxins.md
+      - Hormones & Sexual Health: Conclusions/hormones-and-sexual-health.md
+      - Technology & AI: Conclusions/technology-and-ai.md
+      - Gut Health: Conclusions/gut-health.md
+      - Mindset & Philosophy: Conclusions/mindset-and-philosophy.md
+  - Episodes: MAP.md
