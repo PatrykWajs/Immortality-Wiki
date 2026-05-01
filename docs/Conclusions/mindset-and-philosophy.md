@@ -387,3 +387,8 @@ guest: none
 
 Extracted from scanned PDF document. Contains research and insights relevant to this topic area.
 
+
+### [Spiritual Power Framework — Christianity as a Path to Eternal Life](../Episodes/PDF-1 - 2023 08 11 14 02 Office Lens/summary.md)
+
+Handwritten personal notes framing Christianity as a practical spiritual power system for eternal life. Covers the 10 Commandments, the 2 Commandments of Jesus Christ, Sermon on the Mount Beatitudes, parables (Good Samaritan, Prodigal Son), and 20+ quotes from Jesus on love, mercy, and overcoming evil. Includes a personal testimony connecting spiritual obedience with the explicit goal of living forever.
+
