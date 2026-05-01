@@ -292,3 +292,8 @@ topics: biomarkers-and-testing, hormones-and-sexual-health, diet-and-nutrition, 
 guest: none
 
 [▶ Source](https://www.youtube.com/watch?v=CVpfPETFPhE)
+
+### [Five Powers Framework for Longevity and Immortality](../Episodes/PDF-3 - 2023_09_19 14_06 Office Lens DO NOT CHANGE THIS BOOK FILE EVER/summary.md)
+
+Extracted from scanned PDF document. Contains research and insights relevant to this topic area.
+

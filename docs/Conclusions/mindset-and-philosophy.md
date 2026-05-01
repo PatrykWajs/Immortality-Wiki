@@ -382,3 +382,8 @@ This document articulates a comprehensive, evidence-informed longevity strategy 
 topics: diet-and-nutrition, exercise-and-fitness, sleep-and-recovery, supplements-and-protocols, longevity-science, gut-health, mindset-and-philosophy
 
 guest: none
+
+### [Five Powers Framework for Longevity and Immortality](../Episodes/PDF-3 - 2023_09_19 14_06 Office Lens DO NOT CHANGE THIS BOOK FILE EVER/summary.md)
+
+Extracted from scanned PDF document. Contains research and insights relevant to this topic area.
+
