@@ -137,3 +137,4 @@ Chronological list of all processed episodes — YouTube videos and PDFs.
 - [PDF-1 — 2023 08 11 14 02 Office Lens](Episodes/PDF-1 - 2023 08 11 14 02 Office Lens/summary.md)
 - [PDF-2 — Life Ai With Human Resources Responces Absolute 2019 Read Top And Bottom Of The Doc For Immortality And Search (19019)](Episodes/PDF-2 - Life Ai With Human Resources Responces Absolute 2019 Read Top And Bottom Of The Doc For Immortality And Search 19019/summary.md)
 - [EP-100 — How I Became The World's Healthiest Human | Bryan Johnson Podcast](Episodes/EP-100 - How I Became The Worlds Healthiest Human - Bryan Johnson Podcast/summary.md) — [▶](https://www.youtube.com/watch?v=CVpfPETFPhE)
+- [PDF-3 — Five Powers Framework for Longevity and Immortality](Episodes/PDF-3 - 2023_09_19 14_06 Office Lens DO NOT CHANGE THIS BOOK FILE EVER/summary.md)

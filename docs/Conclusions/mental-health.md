@@ -168,3 +168,8 @@ Psilocybin represents a compelling but early-stage candidate for longevity inter
 Real longevity and life reclamation are built not through motivation or single-domain hacks, but through systems-level alignment across sleep, movement, nutrition, attention, and relationships—each reinforcing the others. The critical shift is from feeling inspired to building self-trust through tiny, repeated promises kept over time, which compounds into capability and enables harder actions. Motivation without action is the enemy of change; self-trust is the foundation. Ultimately, claiming your life requires choosing discomfort in service of growth and showing up consistently, even when uninspired—this is how you become someone you can count on, and thus someone capable of reaching your longevity potential.
 
 [▶ Source](https://www.youtube.com/watch?v=VGY_XMXMSZc)
+
+### [Five Powers Framework for Longevity and Immortality](../Episodes/PDF-3 - 2023_09_19 14_06 Office Lens DO NOT CHANGE THIS BOOK FILE EVER/summary.md)
+
+Extracted from scanned PDF document. Contains research and insights relevant to this topic area.
+

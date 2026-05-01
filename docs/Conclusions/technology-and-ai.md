@@ -162,3 +162,8 @@ The core insight for longevity science is that aging and disease are not inevita
 The current American healthcare system is fundamentally misaligned with longevity and health optimization due to structural incentives favoring treatment over prevention, lack of cost transparency, and promotion of poor nutrition. Rather than waiting for political reform, Johnson argues that building superior alternative health systems—like Blueprint—that integrate comprehensive data, optimization protocols, and accessible care represents a more viable path to systemic change. The observation that D.C. decision-makers operate under chronic sleep deprivation and poor nutrition underscores how environmental and lifestyle factors cascade through institutions to create policies that perpetuate poor health outcomes. Long-term thinking about human health and longevity requires stepping outside traditional political and institutional structures to build new models from first principles.
 
 [▶ Source](https://www.youtube.com/watch?v=rGmXQNZ2yBU)
+
+### [Five Powers Framework for Longevity and Immortality](../Episodes/PDF-3 - 2023_09_19 14_06 Office Lens DO NOT CHANGE THIS BOOK FILE EVER/summary.md)
+
+Extracted from scanned PDF document. Contains research and insights relevant to this topic area.
+
