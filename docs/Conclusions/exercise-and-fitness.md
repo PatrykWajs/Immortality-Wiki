@@ -333,3 +333,9 @@ guest: none
 
 Extracted from scanned PDF document. Contains research and insights relevant to this topic area.
 
+
+### [EP-132 — You're Exercising Wrong](../Episodes/EP-132 - Youre Exercising Wrong/summary.md)
+
+The fundamental error most people make is choosing one form of exercise while neglecting others, when longevity requires a balanced combination of all five pillars. Muscle strength, cardiovascular efficiency (VO₂ max), mitochondrial health, mobility, and balance are all independent systems that degrade if ignored—and all contribute meaningfully to lifespan and healthspan. The goal of exercise is not aesthetics but building a resilient, functional body that remains independent and strong across decades, which requires consistency and comprehensiveness rather than intensity or perfection.
+
+[▶ Source](https://www.youtube.com/watch?v=JNuORofHhrk)
