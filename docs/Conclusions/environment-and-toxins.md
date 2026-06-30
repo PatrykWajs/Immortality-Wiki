@@ -210,3 +210,9 @@ Taco Bell and similar ultra-processed food chains represent a systemic attack on
 The modern food system is fundamentally misaligned with human health due to intentional engineering for addiction and profit rather than nutrition. Bryan Johnson's Blueprint demonstrates that creating a comprehensive alternative is possible but requires unwavering commitment to scientific evidence, quality standards, and mission-driven execution at low margins. The critical insight is that individual willpower is insufficient against deliberate corporate manipulation — systemic change requires building trustworthy infrastructure. This work suggests that longevity and health optimization must address not just individual behavior, but the toxic food environment itself through alternative supply chains and transparent nutritional science.
 
 [▶ Source](https://www.youtube.com/watch?v=setwpDYtHk0)
+
+### [EP-133 — Why I Quit Social Media](../Episodes/EP-133 - Why I Quit Social Media/summary.md)
+
+Social media consumption acts as a biological stressor that narrows attention and blinds users to immediate environmental and internal realities—effectively reducing the capacity for health optimization that longevity protocols depend on. Johnson's data-driven approach reveals that even a 7-day abstinence can restore perceptual clarity sufficient to identify previously invisible threats (environmental toxins like the toxic turf). For individuals committed to healthspan and lifespan optimization, social media represents a high-impact modifiable factor that may undermine the benefits of other interventions; strategic disengagement is positioned as a form of preventive health medicine rather than lifestyle deprivation.
+
+[▶ Source](https://www.youtube.com/watch?v=AuOwfkQHUp4)

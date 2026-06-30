@@ -139,3 +139,4 @@ Chronological list of all processed episodes — YouTube videos and PDFs.
 - [EP-100 — How I Became The World's Healthiest Human | Bryan Johnson Podcast](Episodes/EP-100 - How I Became The Worlds Healthiest Human - Bryan Johnson Podcast/summary.md) — [▶](https://www.youtube.com/watch?v=CVpfPETFPhE)
 - [PDF-3 — Five Powers Framework for Longevity and Immortality](Episodes/PDF-3 - 2023_09_19 14_06 Office Lens DO NOT CHANGE THIS BOOK FILE EVER/summary.md)
 - [EP-132 — You're Exercising Wrong](Episodes/EP-132 - Youre Exercising Wrong/summary.md) — [▶](https://www.youtube.com/watch?v=JNuORofHhrk)
+- [EP-133 — Why I Quit Social Media](Episodes/EP-133 - Why I Quit Social Media/summary.md) — [▶](https://www.youtube.com/watch?v=AuOwfkQHUp4)

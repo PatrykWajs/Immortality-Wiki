@@ -173,3 +173,9 @@ Real longevity and life reclamation are built not through motivation or single-d
 
 Extracted from scanned PDF document. Contains research and insights relevant to this topic area.
 
+
+### [EP-133 — Why I Quit Social Media](../Episodes/EP-133 - Why I Quit Social Media/summary.md)
+
+Social media consumption acts as a biological stressor that narrows attention and blinds users to immediate environmental and internal realities—effectively reducing the capacity for health optimization that longevity protocols depend on. Johnson's data-driven approach reveals that even a 7-day abstinence can restore perceptual clarity sufficient to identify previously invisible threats (environmental toxins like the toxic turf). For individuals committed to healthspan and lifespan optimization, social media represents a high-impact modifiable factor that may undermine the benefits of other interventions; strategic disengagement is positioned as a form of preventive health medicine rather than lifestyle deprivation.
+
+[▶ Source](https://www.youtube.com/watch?v=AuOwfkQHUp4)
