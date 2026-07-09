@@ -4,7 +4,7 @@ title: Home
 
 # Immortality Wiki
 
-The most comprehensive AI-generated knowledge base for Bryan Johnson's longevity research. Detailed summaries, full transcripts, and aggregated topic-based conclusions from **133 videos and PDFs**.
+The most comprehensive AI-generated knowledge base for Bryan Johnson's longevity research. Detailed summaries, full transcripts, and aggregated topic-based conclusions from **134 videos and PDFs**.
 
 Not affiliated with Bryan Johnson or Blueprint. Built for personal research use.
 
@@ -12,13 +12,13 @@ Not affiliated with Bryan Johnson or Blueprint. Built for personal research use.
 
 ## 🎬 Latest Episode
 
-**EP-133 — Why I Quit Social Media** *(June 29, 2026)*
+**EP-134 — I have some bad news...** *(July 2026)*
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/AuOwfkQHUp4" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/UWgzB5B_fjM" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[:octicons-arrow-right-24: Read Summary & Transcript](Episodes/EP-133 - Why I Quit Social Media/summary.md)
+[:octicons-arrow-right-24: Read Summary & Transcript](Episodes/EP-134 - I have some bad news.../summary.md)
 
 ---
 
@@ -30,7 +30,7 @@ Not affiliated with Bryan Johnson or Blueprint. Built for personal research use.
 
     ---
 
-    Chronological list of all 133 episodes and PDFs with direct links to summaries and transcripts.
+    Chronological list of all 134 episodes and PDFs with direct links to summaries and transcripts.
 
     [:octicons-arrow-right-24: Browse All Episodes](MAP.md)
 
@@ -82,10 +82,10 @@ Not affiliated with Bryan Johnson or Blueprint. Built for personal research use.
 
 | Metric | Count |
 |--------|-------|
-| **Total Episodes** | 133 |
+| **Total Episodes** | 134 |
 | **Research Topics** | 13 |
 | **Expert Guests** | 10+ |
-| **Last Updated** | April 2026 |
+| **Last Updated** | July 2026 |
 
 ---
 

@@ -140,3 +140,4 @@ Chronological list of all processed episodes — YouTube videos and PDFs.
 - [PDF-3 — Five Powers Framework for Longevity and Immortality](Episodes/PDF-3 - 2023_09_19 14_06 Office Lens DO NOT CHANGE THIS BOOK FILE EVER/summary.md)
 - [EP-132 — You're Exercising Wrong](Episodes/EP-132 - Youre Exercising Wrong/summary.md) — [▶](https://www.youtube.com/watch?v=JNuORofHhrk)
 - [EP-133 — Why I Quit Social Media](Episodes/EP-133 - Why I Quit Social Media/summary.md) — [▶](https://www.youtube.com/watch?v=AuOwfkQHUp4)
+- [EP-134 — I have some bad news...](Episodes/EP-134 - I have some bad news.../summary.md) — [▶](https://www.youtube.com/watch?v=UWgzB5B_fjM)

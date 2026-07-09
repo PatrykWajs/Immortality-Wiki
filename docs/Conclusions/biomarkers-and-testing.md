@@ -516,3 +516,9 @@ topics: biomarkers-and-testing, hormones-and-sexual-health, diet-and-nutrition, 
 guest: none
 
 [▶ Source](https://www.youtube.com/watch?v=CVpfPETFPhE)
+
+### [EP-134 — I have some bad news...](../Episodes/EP-134 - I have some bad news.../summary.md)
+
+Early detection through comprehensive biomarker tracking and advanced diagnostics (biopsies, immune sequencing) can identify autoimmune diseases decades before they cause serious harm like cancer. The convergence of AI and biotech enables precision approaches to previously "incurable" conditions—moving beyond symptom management to actual solutions. Seemingly minor findings (low iron with normal hemoglobin) warrant investigation as potential gateway signals to serious underlying pathology. Optimizing health involves not just fine-tuning nutrition and exercise, but proactively identifying and solving the diseases that create mortality risk.
+
+[▶ Source](https://www.youtube.com/watch?v=UWgzB5B_fjM)

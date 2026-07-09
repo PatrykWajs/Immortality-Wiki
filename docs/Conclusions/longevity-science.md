@@ -560,3 +560,9 @@ Handwritten personal notes framing Christianity as a practical spiritual power s
 The fundamental error most people make is choosing one form of exercise while neglecting others, when longevity requires a balanced combination of all five pillars. Muscle strength, cardiovascular efficiency (VO₂ max), mitochondrial health, mobility, and balance are all independent systems that degrade if ignored—and all contribute meaningfully to lifespan and healthspan. The goal of exercise is not aesthetics but building a resilient, functional body that remains independent and strong across decades, which requires consistency and comprehensiveness rather than intensity or perfection.
 
 [▶ Source](https://www.youtube.com/watch?v=JNuORofHhrk)
+
+### [EP-134 — I have some bad news...](../Episodes/EP-134 - I have some bad news.../summary.md)
+
+Early detection through comprehensive biomarker tracking and advanced diagnostics (biopsies, immune sequencing) can identify autoimmune diseases decades before they cause serious harm like cancer. The convergence of AI and biotech enables precision approaches to previously "incurable" conditions—moving beyond symptom management to actual solutions. Seemingly minor findings (low iron with normal hemoglobin) warrant investigation as potential gateway signals to serious underlying pathology. Optimizing health involves not just fine-tuning nutrition and exercise, but proactively identifying and solving the diseases that create mortality risk.
+
+[▶ Source](https://www.youtube.com/watch?v=UWgzB5B_fjM)
