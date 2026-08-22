@@ -138,3 +138,7 @@ Expert guests featured in Bryan Johnson's podcast and interviews, indexed alphab
 ## Dr. Carl Seager, Ryan Fields, Ashley Vance, Talmage Johnson
 
 **Episode:** [EP-127 — I Tried Psilocybin for Science (Livestream Highlights)](Episodes/EP-127 - I Tried Psilocybin for Science (Livestream Highlights)/summary.md) — [▶ Watch](https://www.youtube.com/watch?v=3-CqN8EpX8U)
+
+## Kate Tolo
+
+**Episode:** [EP-136 — Meet The World's Most Measured Woman](Episodes/EP-136 - Meet The Worlds Most Measured Woman/summary.md) — [▶ Watch](https://www.youtube.com/watch?v=iuRr_5j9qkY)
