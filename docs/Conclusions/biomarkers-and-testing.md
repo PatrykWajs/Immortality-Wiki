@@ -534,3 +534,9 @@ We are entering an era where individuals can leverage AI and biotechnology to ac
 Understanding female biology at the same rigorous level as male biology is foundational to advancing human longevity science, yet it remains severely under-researched. This experiment represents a paradigm shift: by comprehensively measuring a woman across all menstrual phases using the same standards applied to male subjects, Johnson's team aims to generate the kind of granular, actionable data that has been missing from longevity research. The technological and logistical challenges of measuring women—evident in the complexity of devices and daily protocols—underscore why this work has been historically neglected and why it's critical to address now. This project may ultimately reveal that optimal health strategies must be sex-specific and cycle-aware rather than one-size-fits-all.
 
 [▶ Source](https://www.youtube.com/watch?v=iuRr_5j9qkY)
+
+### [EP-137 — Can I dunk at 49?](../Episodes/EP-137 - Can I dunk at 49/summary.md)
+
+Achieving ambitious physical feats like dunking at age 49 is possible with a systematic, data-driven approach that prioritizes foundational health, progressive overload, and whole-system optimization. Demonstrable performance markers can be more motivating and culturally resonant than abstract metrics alone. Longevity should be about enabling what the body can do, not just averting negatives.
+
+[▶ Source](https://www.youtube.com/watch?v=gtPvsJdBayQ)

@@ -339,3 +339,9 @@ Extracted from scanned PDF document. Contains research and insights relevant to 
 The fundamental error most people make is choosing one form of exercise while neglecting others, when longevity requires a balanced combination of all five pillars. Muscle strength, cardiovascular efficiency (VO₂ max), mitochondrial health, mobility, and balance are all independent systems that degrade if ignored—and all contribute meaningfully to lifespan and healthspan. The goal of exercise is not aesthetics but building a resilient, functional body that remains independent and strong across decades, which requires consistency and comprehensiveness rather than intensity or perfection.
 
 [▶ Source](https://www.youtube.com/watch?v=JNuORofHhrk)
+
+### [EP-137 — Can I dunk at 49?](../Episodes/EP-137 - Can I dunk at 49/summary.md)
+
+Achieving ambitious physical feats like dunking at age 49 is possible with a systematic, data-driven approach that prioritizes foundational health, progressive overload, and whole-system optimization. Demonstrable performance markers can be more motivating and culturally resonant than abstract metrics alone. Longevity should be about enabling what the body can do, not just averting negatives.
+
+[▶ Source](https://www.youtube.com/watch?v=gtPvsJdBayQ)

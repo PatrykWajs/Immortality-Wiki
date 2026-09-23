@@ -398,3 +398,9 @@ Handwritten personal notes framing Christianity as a practical spiritual power s
 Social media consumption acts as a biological stressor that narrows attention and blinds users to immediate environmental and internal realities—effectively reducing the capacity for health optimization that longevity protocols depend on. Johnson's data-driven approach reveals that even a 7-day abstinence can restore perceptual clarity sufficient to identify previously invisible threats (environmental toxins like the toxic turf). For individuals committed to healthspan and lifespan optimization, social media represents a high-impact modifiable factor that may undermine the benefits of other interventions; strategic disengagement is positioned as a form of preventive health medicine rather than lifestyle deprivation.
 
 [▶ Source](https://www.youtube.com/watch?v=AuOwfkQHUp4)
+
+### [EP-137 — Can I dunk at 49?](../Episodes/EP-137 - Can I dunk at 49/summary.md)
+
+Achieving ambitious physical feats like dunking at age 49 is possible with a systematic, data-driven approach that prioritizes foundational health, progressive overload, and whole-system optimization. Demonstrable performance markers can be more motivating and culturally resonant than abstract metrics alone. Longevity should be about enabling what the body can do, not just averting negatives.
+
+[▶ Source](https://www.youtube.com/watch?v=gtPvsJdBayQ)
