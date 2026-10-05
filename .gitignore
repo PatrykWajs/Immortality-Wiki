@@ -9,3 +9,5 @@ pipeline.py
 process_pdf_vision.py
 PROGRESS.json
 CLAUDE.md
+AGENTS.md
+GEMINI.md
