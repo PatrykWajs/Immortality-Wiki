@@ -179,3 +179,9 @@ Extracted from scanned PDF document. Contains research and insights relevant to 
 Social media consumption acts as a biological stressor that narrows attention and blinds users to immediate environmental and internal realities—effectively reducing the capacity for health optimization that longevity protocols depend on. Johnson's data-driven approach reveals that even a 7-day abstinence can restore perceptual clarity sufficient to identify previously invisible threats (environmental toxins like the toxic turf). For individuals committed to healthspan and lifespan optimization, social media represents a high-impact modifiable factor that may undermine the benefits of other interventions; strategic disengagement is positioned as a form of preventive health medicine rather than lifestyle deprivation.
 
 [▶ Source](https://www.youtube.com/watch?v=AuOwfkQHUp4)
+
+### [EP-138 — The Longevity Effects Of Psilocybin](../Episodes/EP-138 - The Longevity Effects Of Psilocybin/summary.md)
+
+Bryan Johnson’s experiment provides first-in-human evidence that psilocybin, when taken in a rigorously controlled and measured setting, exerts measurable improvements across multiple biological systems tied to aging—even in an already optimized individual. These changes—reduced inflammation, improved blood sugar control, lower stress hormone levels, greater brain network flexibility, and positive microbiome shifts—suggest psilocybin could be a legitimate longevity intervention, deserving further robust study. While not a panacea, psilocybin’s ability to measurably impact aging determinants opens new avenues for evidence-based health optimization.
+
+[▶ Source](https://www.youtube.com/watch?v=moReU8AQ-EE)

@@ -540,3 +540,9 @@ Understanding female biology at the same rigorous level as male biology is found
 Achieving ambitious physical feats like dunking at age 49 is possible with a systematic, data-driven approach that prioritizes foundational health, progressive overload, and whole-system optimization. Demonstrable performance markers can be more motivating and culturally resonant than abstract metrics alone. Longevity should be about enabling what the body can do, not just averting negatives.
 
 [▶ Source](https://www.youtube.com/watch?v=gtPvsJdBayQ)
+
+### [EP-138 — The Longevity Effects Of Psilocybin](../Episodes/EP-138 - The Longevity Effects Of Psilocybin/summary.md)
+
+Bryan Johnson’s experiment provides first-in-human evidence that psilocybin, when taken in a rigorously controlled and measured setting, exerts measurable improvements across multiple biological systems tied to aging—even in an already optimized individual. These changes—reduced inflammation, improved blood sugar control, lower stress hormone levels, greater brain network flexibility, and positive microbiome shifts—suggest psilocybin could be a legitimate longevity intervention, deserving further robust study. While not a panacea, psilocybin’s ability to measurably impact aging determinants opens new avenues for evidence-based health optimization.
+
+[▶ Source](https://www.youtube.com/watch?v=moReU8AQ-EE)
